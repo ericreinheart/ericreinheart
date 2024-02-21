@@ -123,18 +123,18 @@ _03/2011 - 07/2014 @ deutsche messe ag_
 
 ### alexander bartels
 
-_head of frontend development @ smartbroker ag_
+_[head of frontend development @ smartbroker ag](https://www.linkedin.com/in/alexander-bartels-9611bb186/)_
 
 > "eric is a passionate frontend developer, always curious to learn new technologies. especially his react skills impressed me. his focus on achieving results while keeping an eye on accessibility and ensuring a great ux is outstanding. he introduced a token based design system where all design tokens exported from figma are automatically compiled into platform specific syntax. this guarantees that our mobile apps and websites stay in sync with the design. it improved the developer experience and productivity a lot. it is always a pleasure to work with eric."
 
 ### steven figura
 
-_co-founder & chairman of the board @ unbound nation ag_
+_[co-founder & chairman of the board @ unbound nation ag](https://www.linkedin.com/in/steven-figura/)_
 
 > "when it comes to delivering on commitments, eric is one of the best that i‘ve met so far in my professional life. he is very reliable and his deliverables come in highest quality while still keeping speed and working in fast iterations. he also has a very good understanding and feeling when it comes to user journeys and their designs thus providing a lot of valuable feedback there as well. eric is a team player, acts with integrity and always shares his views to contribute to the overall success of a project. the entire team enjoys working with him and i will always talk to him first if i need a frontend developer."
 
 ### karolina grage
 
-_freelance brand & ui/ux designer_
+_[freelance brand & ui/ux designer](https://www.linkedin.com/in/karolina-grage-9b6b75168/)_
 
 > "over the past few years, i have been working with eric on several web application projects for shared clients. due to his eminent experience and technical knowledge, teaming up with him is always enjoyable and smooth sailing. eric works extraordinarily reliable and productive; he recognizes potential problems quickly and finds solutions for them before they could even arise. furthermore, his high standard of software quality and impressive understanding of both ui and ux design enrich the collaboration, which ultimately results in outstanding user-centric digital products."
