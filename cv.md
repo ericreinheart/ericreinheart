@@ -34,10 +34,12 @@ i help people and businesses reach their goals by creating user-centric digital 
 - esbuild
 - webpack
 - shopify
-- contentful headless cms
+- contentful cms
+- strapi cms
+- sanity cms
+- storyblok cms
+- prismic cms
 - hubspot cms
-- storyblok headless cms
-- prismic headless cms
 
 ## professional experience
 
